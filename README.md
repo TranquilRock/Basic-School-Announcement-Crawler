@@ -1,5 +1,10 @@
-# ItC-python-hw-sample-code
-TA sample codes for Introduction to Computer 
- 
+# ItC-python-HW
+# Team
+B08902125
+B08902011
+B08902019
+
 # Spec
-Please reference to the [homework spec](https://hackmd.io/@18uoJVgyT9KMeCBZDWu9Ng/HkgFEpyRr)
+https://hackmd.io/@18uoJVgyT9KMeCBZDWu9Ng/HkgFEpyRr
+
+
