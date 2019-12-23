@@ -6,8 +6,8 @@ def get_args():
     # TODO: Add --start-date, --end-date and --output arguments
     #       Convert the two dates to datetime objects
     parser = argparse.ArgumentParser()
-    parser.add_argument('-s', '--start-date', required = True)
-    parser.add_argument('-e', '--end-date', required = True)
+    parser.add_argument('-s', '--start-date')
+    parser.add_argument('-e', '--end-date')
     parser.add_argument('-o', '--output', default = 'output.csv')
 
     args = parser.parse_args()
