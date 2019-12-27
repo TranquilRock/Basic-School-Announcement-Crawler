@@ -1,4 +1,4 @@
-#python main.py --start-date 2019-10-10 --end-date 2019-12-23 --output out   (在cmd中輸入格式，日期可自己更改)
+#python main.py --start-date 2019-10-10 --end-date 2019-12-23 --output out.   (在cmd中輸入格式，日期可自己更改)
 #需 install 很多東西，好像是lxml和requests
 
 
