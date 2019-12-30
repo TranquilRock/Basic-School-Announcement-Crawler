@@ -21,4 +21,3 @@ if __name__ == '__main__':
             f.write(f'{output[0]}, "{output[1]}", "{output[2]}"\n')
 
 
-
